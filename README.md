@@ -1,3 +1,4 @@
+![logo](https://github.com/amitsain001/amitsain001/blob/main/Data%20Science.png)
 <h1 align="center">Hi 👋, I'm Amit Sain</h1>
 <h3 align="center">A passionate Data Science Student from India. "Turning Complex Data into Clear Solutions"</h3>
 
