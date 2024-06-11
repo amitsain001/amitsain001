@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amit Sain</h1>
 <h3 align="center">A passionate Data Science Student from India. "Turning Complex Data into Clear Solutions"</h3>
 
-"![image](https://github.com/amitsain001/Amit-Sain/assets/170951504/712ab611-840a-4b3a-8ae3-1151db87f1f0)"
+https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg
 
 - 🌱 I’m currently learning **Data Science, Machine Learning and Artificial Intelligence**
 
