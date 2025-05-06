@@ -1,11 +1,11 @@
 ![logo](https://github.com/amitsain001/amitsain001/blob/main/Data%20Science.png)
 <h1 align="center">Hi 👋, I'm Amit Sain</h1>
-<h3 align="center">A passionate Data Science Student from India. "Crafting seamless web experiences, one line of code at a time."</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India. "Crafting seamless web experiences, one line of code at a time."</h3>
 
 ![image](https://github.com/amitsain001/amitsain001/assets/170951504/e1ffef19-b386-4415-8982-9c6281ce5ac3)
 
 
-- 🌱 I’m currently learning **Data Science, Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Full Stack web Development ( MERN ) with Data Structure with java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amitsain001](https://github.com/amitsain001)
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amit sain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit sain" height="30" width="40" /></a>
-<a href="https://instagram.com/iam.acoustic01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam.acoustic01" height="30" width="40" /></a>
+<a href="https://www.instagram.com/acousticamit_?igsh=YnBsOXVnaW9tcjZy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam.acoustic01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
