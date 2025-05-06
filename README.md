@@ -1,6 +1,6 @@
 ![logo](https://github.com/amitsain001/amitsain001/blob/main/Data%20Science.png)
 <h1 align="center">Hi 👋, I'm Amit Sain</h1>
-<h3 align="center">A passionate Data Science Student from India. "Turning Complex Data into Clear Solutions"</h3>
+<h3 align="center">A passionate Data Science Student from India. "Crafting seamless web experiences, one line of code at a time."</h3>
 
 ![image](https://github.com/amitsain001/amitsain001/assets/170951504/e1ffef19-b386-4415-8982-9c6281ce5ac3)
 
