@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGmoY89jYo/qxrp3YKGh1DAMX3YdhNnjw/edit?utm_content=DAGmoY89jYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/amitsain001/amitsain001/blob/main/banner%20for%20github%20web%20development.png)
 <h1 align="center">Hi 👋, I'm Amit Sain</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India. "Crafting seamless web experiences, one line of code at a time."</h3>
 
