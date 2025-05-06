@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amit Sain</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India. "Crafting seamless web experiences, one line of code at a time."</h3>
 
-![image align="center"](https://github.com/amitsain001/amitsain001/assets/170951504/e1ffef19-b386-4415-8982-9c6281ce5ac3)
+![image](https://github.com/amitsain001/amitsain001/assets/170951504/e1ffef19-b386-4415-8982-9c6281ce5ac3)
 
 
 - 🌱 I’m currently learning **Full Stack web Development ( MERN ) with Data Structure with java**
